@@ -1,0 +1,14 @@
+body {
+  background-color: #8c298e;
+}
+
+h1.original {
+  color: rgb(30, 194, 52);
+}
+
+h1.colorea {
+  color: rgb(141, 204, 206);
+}
+p {
+  color: white;
+}
